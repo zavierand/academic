@@ -1,5 +1,6 @@
 menu:
-- {name: 'people', url: '/people'}
+# - {name: 'people', url: '/people'}
+- {name: 'hobbies', url: '/hobbies'}
 - {name: 'publications', url: '/publications'}
 - {name: 'courses', url: '/courses'}
 - {name: 'cv', url: '/cv'}
@@ -11,15 +12,19 @@ people:
 - {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
 
 courses:
+- {name: 'Probability and Statistics', url: 'prob-stats'}
 - {name: 'Vector Calculus', url: 'vector-calculus'}
-- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-- {name: 'Stellar Structures', url: 'stellar-structures'}
-
+- {name: 'Linear Algebra', url: 'linear-algebra'}
+- {name: 'Fundamentals of Machine Learning', url: 'FML'}
+- {name: 'Deep Learning', url: 'DL'}
+- {name: 'Introduction to Robotic Intelligence', url: 'RI'}
+- {name: 'Computer Vision', url: 'computer-vision'}
+- {name: 'Artificial Intelligence', url: 'AI'}
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'github', link: 'https://github.com/zavierand'}
+- {icon: 'twitter', link: 'https://twitter.com/ZAndrianarivo'}
+- {icon: 'instagram', link: 'https://instagram.com/zavvier'}
+- {icon: 'linkedin', link: 'https://linkedin.com/in/zavierand'}
 
 contacts:
 - {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}

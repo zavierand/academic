@@ -7,6 +7,11 @@ menu:
 # - {name: 'contact', url: '/contact'}
 
 hobbies:
+- {name: 'Art', url: 'art'}
+- {name: 'Cars', url: 'cars'}
+- {name: 'Cooking', url: 'cooking'}
+- {name: 'Fashion', url: 'fashion'}
+- {name: 'Music', url: 'music'}
 - {name: 'Video Games', url: 'video-games'}
 
 people:

@@ -7,7 +7,7 @@ menu:
 # - {name: 'contact', url: '/contact'}
 
 hobbies:
-- {name: ''}
+- {name: 'Video Games', url: 'video-games'}
 
 people:
 - {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
@@ -18,11 +18,11 @@ courses:
 - {name: 'Probability and Statistics', url: 'prob-stats'}
 - {name: 'Vector Calculus', url: 'vector-calculus'}
 - {name: 'Linear Algebra', url: 'linear-algebra'}
-- {name: 'Fundamentals of Machine Learning', url: 'FML'}
-- {name: 'Deep Learning', url: 'DL'}
-- {name: 'Introduction to Robotic Intelligence', url: 'RI'}
+- {name: 'Fundamentals of Machine Learning', url: 'fml'}
+- {name: 'Deep Learning', url: 'deep-learning'}
+- {name: 'Introduction to Robotic Intelligence', url: 'robot-intelligence'}
 - {name: 'Computer Vision', url: 'computer-vision'}
-- {name: 'Artificial Intelligence', url: 'AI'}
+- {name: 'Artificial Intelligence', url: 'artificial-intelligence'}
 social:
 - {icon: 'github', link: 'https://github.com/zavierand'}
 - {icon: 'twitter', link: 'https://twitter.com/zavierand'}

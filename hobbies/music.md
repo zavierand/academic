@@ -1,0 +1,4 @@
+---
+layout: hobbies
+title: "Music"
+---

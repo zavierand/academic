@@ -3,13 +3,11 @@ layout: home
 title: "Home"
 ---
 
-What's good y'all! My name is Zavier Andrianarivo and I'm currently in my pen-ultimate semester (Fall 2025) of my B.A. at NYU where I major in computer science and minoring in mathematics. This is my website all of my academic and research interests... and anything in between.
+What's good y'all! My name is Zavier Andrianarivo and I'm a new graduate from NYU (Fall 2025) with a B.A, in computer science and a minor in mathematics. This is my website all of my academic and research interests... and anything in between. My research interests lie in robot learning, specifically generating long-horizon actions across multiple embodiments. My long-term goal is to create general home robots. I'd also like to tap into world model research, specifically for allowing robot systems to have a general understanding of the world it interacts with.
 
-Currently, I'm interning at the NYU GRAIL lab, a subset of the [NYU CILVR lab](https://wp.nyu.edu/cilvr/), where I have been assisting on a couple of projects being supervised by [Lerrel Pinto](https://www.lerrelpinto.com/) and learning a lot about robotic intelligence - specifically imitation learning and robot manipulation through inverse kinematics and control theory. My research interests range from planning, behavior cloning, and imitation learning for long-horizon actions to planning and control feedback systems for bimanual manipulation!
+Currently, I'm interning at [NYU CILVR](https://wp.nyu.edu/cilvr/), where I have been working under the supervision of [Jeff Cui](https://jeffcui.com/) and [Lerrel Pinto](https://www.lerrelpinto.com/).
 
-I'm currently looking for any Data Scientist/ML Engineer roles post-grad to fine-tune my skills in designing, developing, deploying, and analyzing intelligence models as I plan to pursue higher education in mechanical engineering and computer science to further pursue my research interests listed above!
-
-Feel free to explore my website -- containing notes from my hobbies and different classes I've taken so far, to projects I've built, papers that I've read, and stuff I look to explore! Feel free to connect with me through any of my social handles in the footer - though I'll probably respond fastest to an email.
+Feel free to explore my website -- containing notes from different classes I've taken so far, hobbies I enjoy, to projects I've built, papers that I've read, and stuff I look to explore! Feel free to connect with me through any of my social handles in the footer - though I'll probably respond fastest to an email.
 
 [//]: # (Comment syntax - weird af)
 

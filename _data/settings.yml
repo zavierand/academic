@@ -15,9 +15,8 @@ hobbies:
 - {name: 'Video Games', url: 'video-games'}
 
 people:
-- {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
-- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
-- {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
+- {name: 'Lerrel Pinto', title: 'Researcher', department: 'Physics & Astronomy', institution: 'New York University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
+- {name: 'Jeff Cui', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
 
 courses:
 - {name: 'Probability and Statistics', url: 'prob-stats'}
@@ -31,7 +30,7 @@ courses:
 social:
 - {icon: 'github', link: 'https://github.com/zavierand'}
 - {icon: 'twitter', link: 'https://twitter.com/zavierand'}
-- {icon: 'scholar', link: 'https://scholar.google.com/citations?user=5sfTcUAAAAAJ&hl=en'}
+- {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=5sfTcUAAAAAJ&hl=en'}
 - {icon: 'instagram', link: 'https://instagram.com/zavvier'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/zavierand'}
 

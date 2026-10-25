@@ -35,7 +35,7 @@ courses:
 social:
 - {icon: 'github', link: 'https://github.com/zavierand'}
 - {icon: 'twitter', link: 'https://twitter.com/zavierand'}
-- {icon: 'google-scholar', link: 'https://scholar.google.com/citations?user=5sfTcUAAAAAJ&hl=en'}
+- {icon: 'graduation-cap', prefix: 'fas', link: 'https://scholar.google.com/citations?user=5sfTcUAAAAAJ&hl=en'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/zavierand'}
 - {icon: 'instagram', link: 'https://instagram.com/zavvier'}
 
